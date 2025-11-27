@@ -47,6 +47,7 @@ body::before {
     background: url("https://wallpapers.com/images/hd/spider-man-aesthetic-m1h1koeexx63yda7.jpg")
       no-repeat center center fixed;
     background-size: cover;
+    overflow-y: hidden;
   }
 }
 
