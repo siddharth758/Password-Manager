@@ -39,6 +39,7 @@ body::before {
   height: 100%;
   background: rgba(0, 0, 0, 0.35);
   pointer-events: none;
+   overflow-y: hidden;
 }
 
 @media (max-width: 520px) {
